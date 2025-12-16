@@ -24,3 +24,5 @@ npm run build
 ```
 
 The output will be in the `dist` folder.
+
+Live Update on : https://bencana.zxbaki.com/
