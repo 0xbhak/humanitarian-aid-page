@@ -24,7 +24,3 @@ npm run build
 ```
 
 The output will be in the `dist` folder.
-
-## License
-
-MIT
